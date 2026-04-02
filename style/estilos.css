@@ -1,0 +1,38 @@
+/*Aqui van los estilos css*/
+/*Estilos Universales*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(255, 255, 221);
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    background-color: rgba(10, 35, 88, 0.979);
+    font-size: 50px;
+    text-align: center;
+    color: #f8ffb4;
+    margin: 20px auto;
+    width: 70%;
+    font-family: Times New Roman;
+    padding: 10px;
+}
+
+h2 {
+    color: rgb(22, 35, 63);
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+p {
+    margin-bottom: 5px;
+}
+
+ul {
+    margin-left: 20px;
+}
